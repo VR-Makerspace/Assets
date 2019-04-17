@@ -1,0 +1,4 @@
+These are a free, simplified preview of all my basemeshes - male, female and child. The images doesn't reflect the actual files you're gonna download (You can tell the difference on the screenshots on CGTrader). Now, the polycount are a bit higher than the previous free sample, but obviously they're not rigged. As I said, it's just a preview in case you're unsure to buy them or not. Meshes are avalaible in collada (.dae), 3D Studio (.3ds), Wavefront (.obj) and STL (.stl)
+*NOTE*
+The rigged meshes are available only as Collada file because while exporting in other extesions the rig doesn't work anymore, idk.
+Hope you like them! :)
